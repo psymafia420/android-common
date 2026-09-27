@@ -1,4 +1,4 @@
-# Theming & Pitch Black Pattern
+## Theming & Pitch Black Pattern
 
 A flexible theming system based on **Material 3 Expressive**, supporting Dynamic Color (Monet) and a specialized "Pitch Black" mode for AMOLED displays.
 
