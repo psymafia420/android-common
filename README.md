@@ -1,4 +1,4 @@
-# Jetpack Common - Architecture & Patterns
+## Jetpack Common - Architecture & Patterns
 
 A centralized knowledge base of architectural patterns and reusable UI components used across the Essentials and AirSync projects.
 
